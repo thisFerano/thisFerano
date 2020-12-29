@@ -1,8 +1,9 @@
-### Hi. My name is Ferano 
+# Hey. 👀
+## My name is Ferano.
+### Here are some facts about me and my work
 
-- 🔭 I’m currently working on a very secret Project
-- 🌱 I’m currently learning Python
-- 💬 Ask me about Java Questions
+- 🔭 I’m currently working on some interesting Projects who will help me in the future.
+- 🌱 I’m currently learning Python.
+- 💬 Ask me about the Sense of Life and I will reply cluelessness.
 - 📫 How to reach me: [Mail](mailto:feranoPrivat@gmail.com) 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im stupid 😊
