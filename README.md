@@ -1,5 +1,5 @@
 # Hey. 👀
-## My name is Ferano aka Roman
+## My name is Roman
 ### Here are some facts about me and my work
 
 - My main programming languages are Javascript and Python
